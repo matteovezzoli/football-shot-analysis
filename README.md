@@ -214,6 +214,7 @@ This project is intended as a reproducible reference for shot-based football ana
 
 ```` ``` ````
 git clone https://github.com/matteovezzoli/football-shot-analysis.git
+
 cd football-shot-analysis
 ```` ``` ````
 ### 2. Clone the repository
