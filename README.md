@@ -2,8 +2,6 @@
 
 This repository contains my **first complete football analytics project**, developed as an **end-to-end data science pipeline in Python** on football shot data.
 
-The project was developed as a **portfolio piece** to demonstrate applied skills in football analytics, exploratory data analysis, feature engineering, and probabilistic modeling.
-
 The analysis integrates **exploratory data analysis (EDA)**, **feature engineering**, and **Expected Goals (xG) modeling** to study how shot geometry, player roles, spatial location, and contextual factors influence goal-scoring probability.
 
 The entire workflow is designed to be **fully reproducible and methodologically transparent**, with all analyses executed programmatically.
