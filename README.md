@@ -16,7 +16,6 @@ The main objectives of this project are to:
 - Analyze the relationship between **shot geometry and goal probability**
 - Study how **player roles, spatial zones, and contextual variables** affect scoring
 - Build and compare multiple **Expected Goals (xG) models**
-- Evaluate models using **probabilistic, discriminative, and football-level metrics**
 - Compare model outputs with **StatsBomb xG** as an external benchmark
 
 ---
