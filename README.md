@@ -80,7 +80,7 @@ This provides insight into **how different roles generate and convert scoring ch
 ### Contextual Effects
 
 The influence of **contextual and tactical variables** is examined, including:
-- Defensive pressure (analyzed across distance bins)
+- Defensive pressure 
 - First-time shots
 - One-on-one situations
 - Aerial duels
