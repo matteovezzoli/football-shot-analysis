@@ -22,7 +22,7 @@ The main objectives of this project are to:
 
 ## 📊 Data Source
 
-The data used in this project comes from **StatsBomb Open Data**, publicly available for research and educational purposes.
+The data used in this project comes from **StatsBomb Open Data**, publicly available for research and educational purposes (https://www.kaggle.com/datasets/saurabhshahane/statsbomb-football-data?resource=download).
 
 After some initial preprocessing, the dataset contains 68,803 shot-level observations. 
 
