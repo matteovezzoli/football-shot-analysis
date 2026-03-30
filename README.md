@@ -207,18 +207,18 @@ This project is intended as a reproducible reference for shot-based football ana
 
 ## 🚀 How to Run the Project
 
-1. **Clone the repository**
+### 1. Clone the repository
 ```bash
-git clone [https://github.com/matteovezzoli/football-shot-analysis.git](https://github.com/matteovezzoli/football-shot-analysis.git)
+git clone https://github.com/matteovezzoli/football-shot-analysis.git
 cd football-shot-analysis
+```
 
 ### 2. Install dependencies
-
-```` ``` ````
+```bash
 pip install -r requirements.txt
-```` ``` ````
-### 3. Run the project
+```
 
-```` ``` ````
+### 3. Run the project
+```bash
 python main.py
-```` ``` ````
+```
